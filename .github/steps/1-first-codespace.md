@@ -33,13 +33,13 @@ codespace には、ローカル開発と比べて次のような利点があり�
 
 1. ファイル一覧の右上にある緑色の **<> Code** ボタンをクリックします。
 
-   <img width="300" alt="緑色の Code ボタン" src="../images/green-code-button.png" />
+   <img width="300" alt="緑色の Code ボタン" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/green-code-button.png?raw=true" />
 
 1. **Codespaces** タブを選び、**Create codespace on main** ボタンをクリックします。新しいウィンドウが開いて VS Code が起動し、リモートの codespace に接続します。作成には数分かかるので待ちます。
 
 1. VS Code ウィンドウの左下を見て、リモート接続を確認します。
 
-   <img width="350" alt="VS Code のリモート接続状態" src="../images/remote-connection-status.png"/>
+   <img width="350" alt="VS Code のリモート接続状態" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/remote-connection-status.png?raw=true"/>
 
 > [!TIP]
 > リポジトリに設定が含まれていない場合、GitHub は [universal](https://github.com/devcontainers/images/tree/main/src/universal) の codespace イメージを使います。よく使われる便利なツールが一通り入っています。
@@ -50,11 +50,11 @@ codespace には、ローカル開発と比べて次のような利点があり�
 
 1. 左のサイドバーで **Explorer** タブを選び、`src/hello.py` を開きます。
 
-   <img width="250" alt="VS Code の Explorer タブ" src="../images/vs-code-explorer-tab.png" />
+   <img width="250" alt="VS Code の Explorer タブ" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/vs-code-explorer-tab.png?raw=true" />
 
 1. 下部パネルで **TERMINAL** タブを選びます。
 
-   <img width="350" alt="VS Code の TERMINAL タブ" src="../images/vs-code-terminal-tab.png" />
+   <img width="350" alt="VS Code の TERMINAL タブ" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/vs-code-terminal-tab.png?raw=true" />
 
 1. codespace のリモートターミナルに次のコマンドを貼り付けて、入っているツールのバージョンを表示します。後で比較するのでバージョンを控えておきます。
 

@@ -40,7 +40,7 @@
 
 1. 保存すると、VS Code に設定の変更を検出したという通知が出ているはずです。**Accept** を選ぶと開発コンテナーが再ビルドされます。または、コマンドパレット (`CTRL`+`Shift`+`P`) から `Codespaces: Rebuild Container` を実行します。**Rebuild** を選びます。フルビルドは必要ありません。
 
-   <img width="350" alt="rebuild codespace コマンド" src="../images/rebuild-codespace-command.png"/>
+   <img width="350" alt="rebuild codespace コマンド" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/rebuild-codespace-command.png?raw=true"/>
 
 1. codespace の再ビルドと VS Code の再接続に数分かかるので待ちます。
 

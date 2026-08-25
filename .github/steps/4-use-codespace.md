@@ -12,11 +12,11 @@
 
 1. **Codespaces** タブを選び、作成済みの codespace の一覧を表示します。
 
-   <img width="250" alt="codespace の一覧" src="../images/codespaces-list.png" />
+   <img width="250" alt="codespace の一覧" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/codespaces-list.png?raw=true" />
 
 1. 動いているものを見つけ、三点メニュー `...` から **Delete** を選びます。
 
-   <img width="500" alt="codespace の削除コマンド" src="../images/delete-codespace-command.png" />
+   <img width="500" alt="codespace の削除コマンド" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/delete-codespace-command.png?raw=true" />
 
 > [!TIP]
 > すべてのプロジェクトの codespace は https://github.com/codespaces でまとめて管理できます。

@@ -12,7 +12,7 @@ GitHub CLI と、VS Code で Python プログラムを実行するための拡�
    Codespaces: Add Dev Container Configuration Files...
    ```
 
-   <img width="350" alt="VS Code の dev container 設定コマンド" src="../images/configure-dev-container-command.png" />
+   <img width="350" alt="VS Code の dev container 設定コマンド" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/configure-dev-container-command.png?raw=true" />
 
 1. `Modify your active configuration...` を選びます。
 
@@ -39,15 +39,15 @@ GitHub CLI と、VS Code で Python プログラムを実行するための拡�
 
 1. 左のナビゲーションで **Extension** タブを選びます。
 
-   <img width="200" alt="VS Code の拡張機能タブ" src="../images/vs-code-extensions-tab.png" />
+   <img width="200" alt="VS Code の拡張機能タブ" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/vs-code-extensions-tab.png?raw=true" />
 
 1. `python` を検索し、`Python` と `Python Debugger` を見つけます。
 
-   <img width="250" alt="VS Code の Python 拡張機能" src="../images/python-extensions.png" />
+   <img width="250" alt="VS Code の Python 拡張機能" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/python-extensions.png?raw=true" />
 
 1. どちらも右クリックし、`Add to devcontainer.json` を選びます。
 
-   <img width="250" alt="Add to devcontainer.json ボタン" src="../images/add-to-devcontainer-button.png" />
+   <img width="250" alt="Add to devcontainer.json ボタン" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/add-to-devcontainer-button.png?raw=true" />
 
 1. `.devcontainer/devcontainer.json` を開きます。
 
@@ -116,7 +116,7 @@ Dev Container specification には、codespace をさらにカスタマイズす
 
 1. VS Code のコマンドパレット (`CTRL`+`Shift`+`P`) を開き、`Codespaces: Rebuild Container` を実行します。**Rebuild** を選びます。フルビルドは必要ありません。
 
-   <img width="350" alt="rebuild codespace コマンド" src="../images/rebuild-codespace-command.png"/>
+   <img width="350" alt="rebuild codespace コマンド" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/rebuild-codespace-command.png?raw=true"/>
 
 1. codespace の再ビルドと VS Code の再接続に数分かかるので待ちます。
 
@@ -133,11 +133,11 @@ codespace を再ビルドしたので、Python の拡張機能、Python のバ�
 
 1. 左のサイドバーで拡張機能タブをクリックし、Python の拡張機能がインストールされ、有効になっているか確認します。
 
-   <img width="250" alt="VS Code の Python 拡張機能" src="../images/python-extensions.png" />
+   <img width="250" alt="VS Code の Python 拡張機能" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/python-extensions.png?raw=true" />
 
 1. 左のサイドバーで **Run and Debug** タブを選び、**Start Debugging** のアイコンを押します。VS Code が下部パネルを開き、実行ログを表示します。
 
-   <img width="250" alt="Run and Debug タブの開始ボタン" src="../images/run-and-debug-start-button.png"/>
+   <img width="250" alt="Run and Debug タブの開始ボタン" src="https://github.com/tat-saitou/skills-code-with-codespaces/blob/main/.github/images/run-and-debug-start-button.png?raw=true"/>
 
 1. 下部パネルで **TERMINAL** タブに切り替えます。
 
